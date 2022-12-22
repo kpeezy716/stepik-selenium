@@ -1,1 +1,1 @@
-# Stepik Selenium Cource - Page Object Pattern
+# Stepik Selenium Cource - Page Object Pattern.
